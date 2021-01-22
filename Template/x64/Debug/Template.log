@@ -1,0 +1,61 @@
+﻿  imgui_sdl.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\include\IMGUI_SDL\imgui_sdl.cpp(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Button.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  CollisionManager.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  SpaceShip.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Sprite.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  UIControl.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  DisplayObject.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  EndScene.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  FontManager.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\FontManager.h(11,9): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Game.h(11,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameController.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\GameController.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Label.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  PlayScene.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  main.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Game.h(11,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Plane.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Player.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Renderer.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Renderer.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  ship.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  SoundManager.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\SoundManager.h(11,10): fatal error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  EventManager.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\EventManager.h(5,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SpriteSheet.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\SpriteSheet.h(7,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  StartScene.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Target.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Transform.h(4,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  TextureManager.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\TextureManager.h(10,10): fatal error C1083: Cannot open include file: 'glm/vec2.hpp': No such file or directory
+  Util.cpp
+C:\Users\migue\Desktop\COLLEGE COURSES\Semester 2\GAME3001 Artiicial Inteligence\GAME3001_Lab1_MiguelPenalver\src\Util.h(5,10): fatal error C1083: Cannot open include file: 'GLM/vec2.hpp': No such file or directory
+  Generating Code...
